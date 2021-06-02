@@ -8,7 +8,7 @@ A Java programmer and a web developer
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Peanuts aren’t technically nuts
 
-![](https://komarev.com/ghpvc/?username=abhishek5324&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=PrincyGupta31&color=ff69b4)
 
 
 ## `Git Stats 🤞`

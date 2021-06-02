@@ -1,5 +1,5 @@
 ### Hey , I'm Princy <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-<a href="https://github.com/Princy-Gupta"><img align="right" width="260" height="260" src="https://i.pinimg.com/474x/38/22/55/38225544a586d1d67bce1c65d9232a69.jpg"></a>
+<a href="https://github.com/PrincyGupta31"><img align="right" width="260" height="260" src="https://i.pinimg.com/474x/38/22/55/38225544a586d1d67bce1c65d9232a69.jpg"></a>
 A Java programmer and a web developer
 - 🔭 I’m currently a intern @PowerPlay
 - 🌱 I’m currently working on Backend (nodeJS)
@@ -16,7 +16,7 @@ A Java programmer and a web developer
 <!-- <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150px" height="150px"> -->
 
 ## `Projects`
-<a href="https://github.com/Princy-Gupta?tab=repositories" > <img src="https://media.giphy.com/media/H62Q7V3uquoeIIRRXf/giphy.gif" width="200px" height="150px"></a>
+<a href="https://github.com/PrincyGupta31?tab=repositories" > <img src="https://media.giphy.com/media/H62Q7V3uquoeIIRRXf/giphy.gif" width="200px" height="150px"></a>
                     <img src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" height="150px" widhth="300px" />
 
 

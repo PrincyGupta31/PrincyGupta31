@@ -2,7 +2,7 @@
 <a href="https://github.com/Princy-Gupta"><img align="right" width="260" height="260" src="https://i.pinimg.com/474x/38/22/55/38225544a586d1d67bce1c65d9232a69.jpg"></a>
 A Java programmer and a web developer
 - 🔭 I’m currently a intern @PowerPlay
-- 🌱 I’m currently learning Data structure and algorithms in java
+- 🌱 I’m currently working on Backend (nodeJS)
 - 💬 Ask me about Anything
 - 📫 How to reach me: Through my social links below
 - 😄 Pronouns: She/Her
